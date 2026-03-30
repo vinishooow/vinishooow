@@ -11,10 +11,10 @@ Me chamo Vinicius Chaves Alves de Almeida, tenho 22 anos e sou natural de Camaç
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="middle" 
     alt="Java"
     title="Java" 
-    width="70px" 
+    width="100px" 
     style="padding-right: 50px;" 
     src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" 
 />
