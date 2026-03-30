@@ -16,7 +16,7 @@ Me chamo Vinicius Chaves Alves de Almeida, tenho 22 anos e sou natural de Camaç
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="<a target="_blank" href="https://icons8.com/icon/lTKW3iI3wIT0/java">Java</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> 
+    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" 
 />
 <img 
     align="left" 
